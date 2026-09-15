@@ -240,4 +240,4 @@ This repository serves as the official landing page for PDF24 Creator. The softw
 **Get the most recent version of PDF24 Creator today!**
 
 ---
-**Last updated:** 2026-09-15 16:22:35 UTC
+**Last updated:** 2026-09-15 20:02:02 UTC
